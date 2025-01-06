@@ -1,9 +1,7 @@
 
-### Olá! Me chamo Leonardo Mendes e sou desenvolvedor na Portoreal Alimentos (https://img.icons8.com/?size=100&id=30461&format=png&color=000000)
+### Olá! Me chamo Leonardo Mendes e sou desenvolvedor na Portoreal Alimentos 🙋🏻‍♂️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mendes-942927192/)
-
-![Léo Mendes GitHub status](https://github-readme-stats.vercel.app/api?username=devhgv&show_icons=true&theme=cobalt&locale=pt-br)
 
 ### Tecnologias que utilizo no meu dia-a-dia:
 
