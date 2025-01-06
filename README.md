@@ -6,16 +6,15 @@
 ### Tecnologias que utilizo no meu dia-a-dia:
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="JavaScript" src="" />
-  <img align="center" alt="HTML" src="" />
-  <img align="center" alt="CSS" src="" />
+  <img align="center" alt="JavaScript" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" />
+  <img align="center" alt="HTML" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+  <img align="center" alt="CSS" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" />
   <img align="center" alt="Sheets" src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" />
-  <img align="center" alt="WORKSPACE" src="" />
-  <img align="center" alt="VS-Code" src="" />
+  <img align="center" alt="VS-Code" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000" />
 </div><br/>
 
 ### Curioso ao extremo, apaixonado por tecnologia e inovação!
 
 ### Projetos:
-- [Produtos SIGE ;]()<br />
-- [Pedidos Curva ABC SIGE ;]()<br />
+- [Produtos SIGE ;](https://github.com/devhgv/PRODUTOS-SIGE)<br />
+- [Pedidos Curva ABC SIGE ;](https://github.com/devhgv/PEDIDOS_CURVA_ABC_SIGE)<br />
