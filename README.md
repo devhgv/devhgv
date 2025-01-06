@@ -14,9 +14,7 @@
   <img align="center" alt="VS-Code" src="" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhgv&layout=compact&locale=pt-br)
-
-Curioso ao extremo, apaixonado por tecnologia e inovação!
+### Curioso ao extremo, apaixonado por tecnologia e inovação!
 
 ### Projetos:
 - [Produtos SIGE ;]()<br />
