@@ -19,3 +19,6 @@
 - [Produtos SIGE ;](https://github.com/devhgv/PRODUTOS-SIGE)<br />
 - [Pedidos Curva ABC SIGE ;](https://github.com/devhgv/PEDIDOS_CURVA_ABC_SIGE)<br />
 - [Produtos-TINY ;](https://github.com/devhgv/Produtos-TINY)<br />
+- [Produtos Full Info-TINY ;](https://github.com/devhgv/Produtos-Full-Info-Tiny)<br />
+
+
